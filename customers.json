@@ -1,0 +1,62 @@
+[
+    {
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "age": 28,
+        "phone_number": "555-0101"
+    },
+    {
+        "first_name": "Bob",
+        "last_name": "Smith",
+        "age": 35,
+        "phone_number": "555-0102"
+    },
+    {
+        "first_name": "Charlie",
+        "last_name": "Brown",
+        "age": 22,
+        "phone_number": "555-0103"
+    },
+    {
+        "first_name": "Diana",
+        "last_name": "Davis",
+        "age": 41,
+        "phone_number": "555-0104"
+    },
+    {
+        "first_name": "Eve",
+        "last_name": "Wilson",
+        "age": 19,
+        "phone_number": "555-0105"
+    },
+    {
+        "first_name": "Frank",
+        "last_name": "Miller",
+        "age": 33,
+        "phone_number": "555-0106"
+    },
+    {
+        "first_name": "Grace",
+        "last_name": "Taylor",
+        "age": 27,
+        "phone_number": "555-0107"
+    },
+    {
+        "first_name": "Henry",
+        "last_name": "Anderson",
+        "age": 45,
+        "phone_number": "555-0108"
+    },
+    {
+        "first_name": "Ivy",
+        "last_name": "Thomas",
+        "age": 31,
+        "phone_number": "555-0109"
+    },
+    {
+        "first_name": "Jack",
+        "last_name": "White",
+        "age": 24,
+        "phone_number": "555-0110"
+    }
+]
